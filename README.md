@@ -18,6 +18,7 @@ The animated logo is intended to function as the website's navigation/home link.
 
 - `index.html` — Interactive web prototype demonstrating the intended logo behavior.
 - `assets/ETON-logo-animation.json` — Lottie animation asset for implementation.
+- `assets/ETON - horizontal - for web_1.mp4` - Video reference of the complete logo animation.
 
 ## Technical Notes
 
